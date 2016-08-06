@@ -1,5 +1,4 @@
-{
-	"rui_theme":[
+[
 		{
 			"themeName":"metal",
 		    "packageName":"com.aa.bb",
@@ -15,6 +14,5 @@
 		 	"packageName":"com.aa.cc",
 		 	"picURL":"https;//github.com/a.png"
 		 }
-		 ],
-		 "error_code":0
-}
+ ]
+		 
