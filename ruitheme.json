@@ -1,18 +1,42 @@
-[
-		{
-			"themeName":"metal",
-		    "packageName":"com.aa.bb",
-		    "picURL":"https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
-		 },
-		 {
-		 	"themeName":"metal",
-		 	"packageName":"com.aa.cc",
-		 	"picURL":"https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
-		 },
-		 {
-		 	"themeName":"metal",
-		 	"packageName":"com.aa.cc",
-		 	"picURL":"https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
-		 }
- ]
-		 
+{
+ "status": 1,
+ "data": [
+    {
+        "themeName": "Modern Icons",
+        "packageName": "uprui.icons.modern",
+        "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
+        "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_modern.png"
+    },
+    {
+        "themeName": "Win 10 Colors",
+        "packageName": "uprui.icons.win10colors",
+        "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
+        "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_win.png"
+    },
+    {
+        "themeName": "Stylish Icons",
+        "packageName": "uprui.icons.stylish",
+        "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
+        "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_stylish.png"
+    },
+    {
+        "themeName": "FlatUI Free",
+        "packageName": "mlauncher.theme.a1.flatui",
+        "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
+        "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_flatui_free.png"
+    },
+    {
+        "themeName": "Colorful Line",
+        "packageName": "uprui.icons.colorfulline",
+        "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
+        "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_colorful.png"
+    },
+    {
+        "themeName": "Metal",
+        "packageName": "mlauncher.theme.a5.metal",
+        "picURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/theme.jpg"
+        "iconURL": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/mlauncher_theme_metal.png"
+    }
+],
+  "msg": "成功"
+}
