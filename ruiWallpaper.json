@@ -2,29 +2,37 @@
     "status": 1,
     "data": [
         {
+            "wallpaperName": "Wallpaper1",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         },
         {
+            "wallpaperName": "Wallpaper2",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         },
         {
+            "wallpaperName": "Wallpaper3",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         },
         {
+            "wallpaperName": "Wallpaper4",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         },
         {
+            "wallpaperName": "Wallpaper5",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         },
         {
+            "wallpaperName": "Wallpaper6",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         },
-       {
+        {
+            "wallpaperName": "Wallpaper7",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         },
-       {
+        {
+            "wallpaperName": "Wallpaper8",
             "wallpaperUrl": "https://raw.githubusercontent.com/yanjunnidongde/RUITheme/master/wallpaper1.png"
         }
     ],
-    "msg": "\u6210\u529f"
+    "msg": "³É¹¦"
 }
